@@ -1,0 +1,103 @@
+/* .navbar-collapse { */
+  /* margin-left: 572px; */
+  /* border: 2px solid black; */
+  /* } */
+  /* .navbar-brand{
+    margin-left: 57px;
+} */
+  /* .navbar-nav a{
+   margin-left: 90px;
+    font-size: 1rem;
+    color: whitesmoke;
+} */
+.bg_col {
+    background-color: rgb(99 54 54);
+  }
+
+  .card-body {
+    background-color: rgb(201, 144, 144);
+    /* border: 2px solid rgb(24, 22, 22); */
+
+  }
+
+  .card {
+    height: 346px;
+    margin-top: 42px;
+    box-shadow: 23px 23px 23px rgb(156 83 83);
+
+  }
+
+  .card:hover {
+    text-shadow: 2px 2px 5px white;
+  }
+
+  .v1 {
+    background-color: rgb(201, 144, 144);
+    height: 500px;
+    border: 9px solid rgb(201, 144, 144);
+    z-index: -1;
+  }
+
+  .c2 {
+    height: 34px;
+  }
+
+  .card1 {
+    height: 442px;
+    /* margin-top: 42px; */
+    box-shadow: 63px 4px 273px rgb(174 93 93);
+  }
+
+  .ld {
+    color: white;
+  }
+
+  .last-section {
+    position: relative;
+    height: auto;
+    background-color: rgb(120, 64, 64);
+  }
+
+  .custom-shape-divider-top-1698868362 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+  }
+
+  .custom-shape-divider-top-1698868362 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 58px;
+  }
+
+  .custom-shape-divider-top-1698868362 .shape-fill {
+    fill: #FFFFFF;
+  }
+
+  .heading {
+    margin-top: 25px;
+  }
+
+  .form-sec {
+    width: 50%;
+    margin: auto;
+  }
+  .im {
+    height: 61px;
+    margin: 3px 33px;
+    mix-blend-mode: color-burn;
+}
+.foot{
+  height: auto;
+  /* background-color: rgb(133, 83, 83);
+   */
+   background-color: rgb(120, 64, 64);
+ 
+}
+/* .f-d{
+  background-color: burlywood;
+} */
